@@ -1,0 +1,62 @@
+.public{
+    background-color: aliceblue;
+}
+.header{
+    background-color: dodgerblue;
+    height: 150px;
+    margin-bottom: 40px;    
+    
+}
+
+#head{
+    font-size: 40px;
+    color:aliceblue;
+    text-align:center;
+    padding-top: 45px;
+}
+#ti{
+    display: flex;
+    justify-content: center;
+}
+.title{
+    background-color: rgba(128, 128, 128, 0.247);
+    width: 541px;
+    height: 200px;
+    text-align: center;
+    margin-bottom: 30px;
+
+
+}
+.space{
+    margin-right: 30px;
+}
+
+.bottom{
+    display: inline-block;
+    width: 383px;
+    height: 200px;
+    
+    
+}
+#center{
+    display: flex;
+justify-content : center;
+
+    
+}
+#blue{
+    background-color:rgb(60, 138, 228);
+}
+#yello{
+    background-color: rgb(231,187,93);
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#green{
+    background-color: rgb(93, 230, 190);
+    
+    margin-right: 50px;
+}
+#red{
+    background-color: rgb(231,93,127);
+}
